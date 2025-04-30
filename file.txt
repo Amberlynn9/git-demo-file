@@ -2,8 +2,11 @@ Line 1
 Line 2 from feature branch
 Line 2 from main branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a bad line
 =======
 
 >>>>>>> fb3c31f1d8e1d230f4b4b2c3261e77b63745f008
 THis is a bad line
+=======
+>>>>>>> parent of b527135 (Add bad line to file.txt)
